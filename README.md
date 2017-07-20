@@ -8,6 +8,8 @@ The StudyFinder project was designed with the purpose to develop a matching appl
 
 It can be viewed here: https://study-finder.herokuapp.com/
 
+**Note:** The site may take a few seconds to load upon the initial visit as Heroku servers are designed to sleep after a short period of time. This means if no one has accessed the site for a while the server will take a bit of time to wake-up and respond to the request.
+
 If you don't want to go through the account creation process and would rather just jump straight in and see how the application works feel free to use this account:
 
 **Login:** 01010101@student.uwa.edu.au
