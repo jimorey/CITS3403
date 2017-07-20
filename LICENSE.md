@@ -193,7 +193,9 @@
       identification within third-party archives.
 
    Copyright 2017 Jim Reynolds
+   
    Copyright 2017 Jason Ankers
+   
    Copyright 2017 Maktoom Ahmed
 
    Licensed under the Apache License, Version 2.0 (the "License");
