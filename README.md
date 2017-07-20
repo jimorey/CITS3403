@@ -50,9 +50,10 @@ Uncomment the local DB URI.
 
 After adding mongod to PATH, create a data directory.
 
+```
 md \data
 ```
-
+```
 md \data\db
 ```
 Start mongod
