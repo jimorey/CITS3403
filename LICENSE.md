@@ -1,5 +1,7 @@
    Copyright 2017 Jim Reynolds
+   
    Copyright 2017 Jason Ankers
+   
    Copyright 2017 Maktoom Ahmed
                           
    Apache License
