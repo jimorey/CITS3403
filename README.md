@@ -2,9 +2,9 @@
 
 ## Description
 
-StudyFinder matches students from UWA who are studying similar units and are available at similar times, so they can meetup and study together.
+StudyFinder matches students from UWA who are studying similar units and are available at similar times so they can meetup and study together.
 
-The StudyFinder project was designed with the purpose to developing a matching application similar to Tinder, Plenty of Fish, OkCupid etc.
+The StudyFinder project was designed with the purpose to develop a matching application similar to Tinder, Plenty of Fish, OkCupid etc.
 
 It can be viewed here: https://study-finder.herokuapp.com/
 
@@ -12,6 +12,8 @@ If you don't want to go through the account creation process and would rather ju
 
 Login: 01010101@student.uwa.edu.au
 Password: password
+
+Feel free to report any bugs you encounter.
 
 ## Installation
 
