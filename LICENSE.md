@@ -1,10 +1,10 @@
-                          Copyright 2017 Jim Reynolds
-                          Copyright 2017 Jason Ankers
-                          Copyright 2017 Maktoom Ahmed
+   Copyright 2017 Jim Reynolds
+   Copyright 2017 Jason Ankers
+   Copyright 2017 Maktoom Ahmed
                           
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+   Apache License
+   Version 2.0, January 2004
+   http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
