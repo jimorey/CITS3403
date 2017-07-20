@@ -11,6 +11,7 @@ It can be viewed here: https://study-finder.herokuapp.com/
 If you don't want to go through the account creation process and would rather just jump straight in and see how the application works feel free to use this account:
 
 Login: 01010101@student.uwa.edu.au
+
 Password: password
 
 Feel free to report any bugs you encounter.
