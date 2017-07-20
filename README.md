@@ -79,7 +79,9 @@ Access locally here: http://127.0.0.1:3000/
 ## Authors
 
 Jim Reynolds
+
 Jason Ankers
+
 Maktoom Ahmed
 
 ## License
