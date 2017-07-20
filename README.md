@@ -1,4 +1,4 @@
-# CITS3403 Project
+# StudyFinder Project
 
 ## Description
 
