@@ -73,8 +73,8 @@ or
 ```
 npm start
 ```
-Currently opens on port 3000, access on:
-http://127.0.0.1:3000/
+Currently opens on port 3000. 
+Access locally here: http://127.0.0.1:3000/
 
 ## Authors
 
