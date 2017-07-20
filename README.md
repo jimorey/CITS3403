@@ -1,5 +1,18 @@
 # CITS3403 Project
 
+## Description
+
+StudyFinder matches students from UWA who are studying similar units and are available at similar times, so they can meetup and study together.
+
+The StudyFinder project was designed with the purpose to developing a matching application similar to Tinder, Plenty of Fish, OkCupid etc.
+
+It can be viewed here: https://study-finder.herokuapp.com/
+
+If you don't want to go through the account creation process and would rather just jump straight in and see how the application works feel free to use this account:
+
+Login: 01010101@student.uwa.edu.au
+Password: password
+
 ## Installation
 
 ### Install Express
@@ -19,14 +32,13 @@ npm install
 ```
 
 ### Install mongoDB & Using MongoDB
-REMOTE
+**REMOTE**
 
 Application is already setup to run with a remote database.
 
 Remote DB URI: 'mongodb://erklik:tusif556571@ds147681.mlab.com:47681/cits3403mac'
 
-
-LOCAL
+**LOCAL**
 
 Open db.js in the 'routes' directory.
 
@@ -59,3 +71,13 @@ npm start
 ```
 Currently opens on port 3000, access on:
 http://127.0.0.1:3000/
+
+## Authors
+
+Jim Reynolds
+Jason Ankers
+Maktoom Ahmed
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
