@@ -2,7 +2,7 @@
 
 ## Description
 
-StudyFinder matches students from UWA who are studying similar units and are available at similar times so they can meetup and study together.
+StudyFinder matches students from UWA (The University of Western Australia) who are studying similar units and are available at similar times so they can meetup and study together.
 
 The StudyFinder project was designed with the purpose to develop a matching application similar to Tinder, Plenty of Fish, OkCupid etc.
 
